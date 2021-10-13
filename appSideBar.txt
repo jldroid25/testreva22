@@ -1,1 +1,4 @@
 added sidebar feature
+
+-- Here is the design pattern line requested -
+:) 
