@@ -3,4 +3,9 @@ James is coding
 Some basic file commands
 
 hacking codes 123-code-was hacked
+<<<<<<< HEAD
 added sidebar to code
+=======
+=================================
+This line  comes from Mac OS local repo ..
+>>>>>>> f736c6f3b8cdb65ae648604000b643b6b92b778e
